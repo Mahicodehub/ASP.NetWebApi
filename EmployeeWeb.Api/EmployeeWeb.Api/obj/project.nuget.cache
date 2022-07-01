@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "P96YscjcYHuEsKsirREDuOFd3lMye04UQdurmsyRWY6pMYWiXh08XSoP5zjvaHB2LmOIWkbJLuA/ueyk1z9flw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mahes\\Documents\\CSharp\\EmployeeWeb.Api\\EmployeeWeb.Api\\EmployeeWeb.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mahes\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\mahes\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mahes\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\mahes\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\mahes\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\mahes\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
